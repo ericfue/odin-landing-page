@@ -1,11 +1,28 @@
 body {
-    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    
+    align-items: center;
+    color: white;
+    background-color: #91672B;
+    margin: 0px;
+}
+
+.logo {
+    display: flex;
+    gap: 20px;
+    margin-left: 50px;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+    margin: auto;
 }
 
 ul {
@@ -13,5 +30,6 @@ ul {
     text-decoration: none;
     list-style: none;
     padding: 0px;
-    gap: 20px;
+    gap: 40px;
+    margin-right: 50px;
 }
