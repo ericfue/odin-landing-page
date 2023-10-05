@@ -25,6 +25,33 @@ body {
     margin: auto;
 }
 
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 300px;
+    padding: 50px;
+}
+
+.infop {
+    max-width: 500px;
+}
+
+#raptor {
+    height: 200px;
+    width: auto;
+    margin-left: -400px; 
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+
+
+.footer {
+    background-color: #91672B;
+}
+
 ul {
     display: flex;
     text-decoration: none;
@@ -32,4 +59,12 @@ ul {
     padding: 0px;
     gap: 40px;
     margin-right: 50px;
+}
+
+button {
+    border: 1px white;
+    padding: 8px 16px;
+    color: white;
+    background-color: black;
+    border-radius: 25px;
 }
