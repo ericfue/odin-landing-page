@@ -1,3 +1,3 @@
 # odin-landing-page
-The Landing Page project from The Odin Project.
-This project will be styled to resemble a potential real-world hobbyist website, giving me experience with designing actual products that customers may request.
+This is my submission for the Landing Page project for The Odin Project.
+I wanted to make a mockup of a potential website for one of my friend's hobbies. The layout and stylization of the website is in accordance with my friend's branding guidelines. The website features links to my friend's associated hobbyist social media accounts. I may use this website to eventually create a fully fleshed out website for my friend in the future, perhaps as a template or for copy. I also want to use the experience I've gained by completing this project to show my skills in creating web products for actual potential customers.
