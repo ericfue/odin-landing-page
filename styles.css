@@ -2,6 +2,9 @@ body {
     font-family: 'Roboto', sans-serif;
     padding: 0px;
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .header {
@@ -42,13 +45,33 @@ body {
     margin-left: -400px; 
 }
 
-.quote {
+.content {
     background-color: #E5E7EB;
-    text-align: center;
-    padding: 42px;
 }
 
+.quote {
+    background-color: white;
+    padding: 42px;
+    display: flex;
+    justify-content: center;
+}
 
+.quote2 {
+    width: fit-content;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+}
+
+.action {
+    background-color: #E5E7EB;
+    padding: 150px;
+}
+
+.action2 {
+    background-color: white;
+    border-radius: 25px;
+}
 
 .footer {
     background-color: #91672B;
